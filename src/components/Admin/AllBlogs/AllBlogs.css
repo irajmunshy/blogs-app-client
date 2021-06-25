@@ -1,0 +1,28 @@
+.all-blog {
+    background: #F2F2F2;
+    margin: -3px 0 0 -24px;
+    height: 90vh;
+    padding: 35px 0;
+}
+.all-blog .info {
+    height: 80vh;
+    background: #fff;
+    border-radius: 7px;
+    box-shadow: rgb(0 0 0 / 20%) 0px 2px 6px;
+    overflow-y: scroll;
+}
+.all-blog .info .tHead {
+    background: #F5F6FA;
+    border-radius: 7px;
+    padding: 10px 20px 6px;
+}
+.all-blog .info .tBody .title {
+    text-transform: capitalize;
+}
+.all-blog .info .tBody .delete {
+    color: #fff;
+    background: #FF4E54;
+    padding: 2px 4px;
+    border-radius: 4px;
+    cursor: pointer;
+}

@@ -1,0 +1,17 @@
+.post-area {
+    background: #F2F2F2;
+    margin: -3px 0 0 -24px;
+    height: 90vh;
+}
+.saveBtn {
+    background: #71ba58;
+    color: #fff;
+    padding: 9px 50px;
+    border: 1px solid #71ba58;
+    font-weight: 500;
+}
+.saveBtn:hover {
+    background: none;
+    color: #71ba58;
+}
+

@@ -1,0 +1,11 @@
+.custom-navbar {
+    padding: 7px 0;
+    background: #F4FCFB;
+}
+.custom-navbar a {
+    font-weight: 500;
+}
+.custom-navbar .logo a {
+    font-size: 25px;
+    font-weight: 500;
+}
